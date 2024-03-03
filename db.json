@@ -1,0 +1,432 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "nama": "Makanan"
+    },
+    {
+      "id": "2",
+      "nama": "Minuman"
+    },
+    {
+      "id": "3",
+      "nama": "Cemilan"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Lontong Opor Ayam ndeso",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "lontong-opor-ayam.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "6",
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "bakso.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "7",
+      "kode": "K-07",
+      "nama": "Mie Ayam Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "8",
+      "kode": "K-08",
+      "nama": "Gacoan",
+      "harga": 9000,
+      "is_ready": true,
+      "gambar": "gacoan.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "9",
+      "kode": "K-09",
+      "nama": "hompimpa",
+      "harga": 9500,
+      "is_ready": true,
+      "gambar": "hompimpa.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "10",
+      "kode": "K-10",
+      "nama": "suit",
+      "harga": 9500,
+      "is_ready": true,
+      "gambar": "suit.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": "11",
+      "kode": "K-11",
+      "nama": "Pangsit 6 pcs",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "12",
+      "kode": "K-12",
+      "nama": "Kentang Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "10",
+      "kode": "K-010",
+      "nama": "Cheese Burger",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "cheese-burger.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "13",
+      "kode": "K-013",
+      "nama": "lumpia",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "lumpia.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "14",
+      "kode": "K-014",
+      "nama": "udang keju",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "udang-keju.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "15",
+      "kode": "K-015",
+      "nama": "udang rambutan",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "udang-rambutan.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "16",
+      "kode": "K-016",
+      "nama": "siomay",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "siomay.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": "11",
+      "kode": "K-011",
+      "nama": "Coffe Late",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "coffe-late.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "12",
+      "kode": "K-012",
+      "nama": "Es Jeruk",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "13",
+      "kode": "K-013",
+      "nama": "Es Teh",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "es-teh.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "14",
+      "kode": "K-014",
+      "nama": "Teh Hangat",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "teh-hangat.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "15",
+      "kode": "K-015",
+      "nama": "es gobak sodor",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "gobak-sodor.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "16",
+      "kode": "K-016",
+      "nama": "es teklek",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "es-teklek.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "17",
+      "kode": "K-017",
+      "nama": "green tea",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "green-tea.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "18",
+      "kode": "K-018",
+      "nama": "es petak umpet",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "petak-umpet.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "19",
+      "kode": "K-019",
+      "nama": "es sluku bathok",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "sluku-bathok.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": "20",
+      "kode": "K-020",
+      "nama": "thai tea",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "thai-tea.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "total_bayar": 60000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 32000,
+          "product": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "keterangan": "Semuanya Pedas",
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 28000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "d981",
+      "total_bayar": 9500,
+      "menus": [
+        {
+          "id": "cc7b",
+          "jumlah": 1,
+          "total_harga": 9500,
+          "product": {
+            "id": "9",
+            "kode": "K-09",
+            "nama": "hompimpa",
+            "harga": 9500,
+            "is_ready": true,
+            "gambar": "hompimpa.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "7c66",
+      "total_bayar": 9500,
+      "menus": [
+        {
+          "id": "cc7b",
+          "jumlah": 1,
+          "total_harga": 9500,
+          "product": {
+            "id": "9",
+            "kode": "K-09",
+            "nama": "hompimpa",
+            "harga": 9500,
+            "is_ready": true,
+            "gambar": "hompimpa.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

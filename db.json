@@ -427,6 +427,86 @@
           }
         }
       ]
+    },
+    {
+      "id": "6568",
+      "total_bayar": 14000,
+      "menus": [
+        {
+          "id": "28fb",
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": "2",
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "c769",
+      "total_bayar": 40000,
+      "menus": [
+        {
+          "id": "a5a3",
+          "jumlah": 1,
+          "total_harga": 15000,
+          "product": {
+            "id": "10",
+            "kode": "K-010",
+            "nama": "Cheese Burger",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "cheese-burger.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Cemilan"
+            }
+          }
+        },
+        {
+          "id": "b87d",
+          "jumlah": 1,
+          "total_harga": 15000,
+          "product": {
+            "id": "15",
+            "kode": "K-015",
+            "nama": "udang rambutan",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "udang-rambutan.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Cemilan"
+            }
+          }
+        },
+        {
+          "id": "f3b1",
+          "jumlah": 1,
+          "total_harga": 10000,
+          "product": {
+            "id": "14",
+            "kode": "K-014",
+            "nama": "udang keju",
+            "harga": 10000,
+            "is_ready": true,
+            "gambar": "udang-keju.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Cemilan"
+            }
+          }
+        }
+      ]
     }
   ]
 }
